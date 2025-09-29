@@ -16,3 +16,7 @@ Added new feature for enhanced functionality - ID: xvdgwtap
 ## Update 2025-09-29 10:36:40
 Added tests for better maintainability - ID: oea68er9
 
+
+## Update 2025-09-29 10:36:51
+Added configuration for better user experience - ID: yt5vusuv
+
